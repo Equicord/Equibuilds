@@ -6,9 +6,9 @@
  * @license MIT
  */
 /*!
- * BetterDiscord addon meta parser
- * Copyright 2023 BetterDiscord contributors
- * Copyright 2023 Vendicated and Vencord contributors
+ * idb-keyval v6.2.0
+ * Copyright 2016, Jake Archibald
+ * Copyright 2022, Vendicated
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,9 +23,9 @@
  * limitations under the License.
  */
 /*!
- * idb-keyval v6.2.0
- * Copyright 2016, Jake Archibald
- * Copyright 2022, Vendicated
+ * BetterDiscord addon meta parser
+ * Copyright 2023 BetterDiscord contributors
+ * Copyright 2023 Vendicated and Vencord contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -71,4 +71,12 @@ virtual-merge/dist/index.mjs:
    * virtual-merge
    * Copyright (c) 2023 Vendicated
    * SPDX-License-Identifier: MIT
+   */
+
+is-buffer/index.js:
+  /*!
+   * Determine if an object is a Buffer
+   *
+   * @author   Feross Aboukhadijeh <https://feross.org>
+   * @license  MIT
    */
