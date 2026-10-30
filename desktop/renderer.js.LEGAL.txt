@@ -66,13 +66,6 @@
 
 Bundled license information:
 
-virtual-merge/dist/index.mjs:
-  /*!
-   * virtual-merge
-   * Copyright (c) 2023 Vendicated
-   * SPDX-License-Identifier: MIT
-   */
-
 is-buffer/index.js:
   /*!
    * Determine if an object is a Buffer
