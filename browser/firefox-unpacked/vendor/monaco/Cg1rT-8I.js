@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./CJ-D-7k5.js";self.onmessage=()=>{e()||t(()=>({}))};
